@@ -1,0 +1,32 @@
+1. Under the index.html the third slide is not displaying. (FIXED)
+
+2. The registration date and updation date tables in the DB how do they work (FIXED)
+
+3. The Jquery script under the registration.php how does it work
+
+4. $num=mysqli_fetch_array($ret); what does this line of code do? under index.php
+
+5. The forgot password link under index.php is not working properly
+
+6. <script type="text/javascript">
+		function valid()
+		{
+		if(document.forgot.password.value!= document.forgot.confirmpassword.value)
+		{
+		alert("Password and Confirm Password Field do not match  !!");
+		document.forgot.confirmpassword.focus();
+		return false;
+		}
+		return true;
+		}
+	</script>
+
+    How does this script work under index.php
+
+7. Userprofile.php not working (FIXED)
+
+8. Userip how does it work (PENDING)
+
+9.The login time, logout time and everything related to time in the db how does it work (FIXED)
+
+10. How will the complaint be wired to the appropriate personnel 
